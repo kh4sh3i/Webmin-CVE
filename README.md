@@ -1,6 +1,12 @@
 # Webmin CVE
 a Curated list of Webmin vulnerability.
 
+## Shodan Dork
+```
+http.html:"webmin"
+```
+
+
 ## CVE-2022-0824
 Improper Access Control to Remote Code Execution in GitHub repository webmin/webmin prior to 1.990.
 
