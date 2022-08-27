@@ -9,7 +9,7 @@
   <a href="https://github.com/kh4sh3i"><img src="https://img.shields.io/github/stars/kh4sh3i?style=flat&logo=github"></a>
 </h1>
 
-# Webmin CVE
+# Webmin CVE 
 a Curated list of Webmin vulnerability for penetration tester
 
 
