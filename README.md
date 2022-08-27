@@ -1,5 +1,11 @@
 # Webmin CVE
-a Curated list of Webmin vulnerability.
+a Curated list of Webmin vulnerability for penetration tester
+
+
+
+## What is Webmin?
+Webmin is a web-based interface for system administration for Unix. Using any modern web browser, you can setup user accounts, Apache, DNS, file sharing and much more.
+
 
 ## Shodan Dork
 ```
@@ -43,7 +49,6 @@ An issue was discovered in Webmin <=1.920. The parameter old in password_change.
 
 ```
 python2 CVE_2019_15107.py https://target-ip:10000 cmd
-
 ```
 
 
